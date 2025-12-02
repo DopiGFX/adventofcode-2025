@@ -1,6 +1,7 @@
 {
   "tasks": {
-    "dev-1": "deno run -P --watch src/aoc-1.ts"
+    "dev-1": "deno run -P --watch src/aoc-1.ts",
+    "dev-2": "deno run -P --watch src/aoc-2.ts"
   },
   "permissions": {
     "default": {
