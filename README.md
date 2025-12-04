@@ -9,4 +9,10 @@ The input files contain the examples provided in the quiz. You may replace them 
 ```bash
 # https://adventofcode.com/2025/day/1
 deno run src/aoc-1.ts
+
+# https://adventofcode.com/2025/day/2
+deno run src/aoc-2.ts
+
+# https://adventofcode.com/2025/day/3
+deno run src/aoc-3.ts
 ```
