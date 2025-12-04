@@ -15,4 +15,7 @@ deno run src/aoc-2.ts
 
 # https://adventofcode.com/2025/day/3
 deno run src/aoc-3.ts
+
+# https://adventofcode.com/2025/day/4
+deno run src/aoc-4.ts
 ```
